@@ -60,12 +60,12 @@ Log into local user by adding ".\" to the account name:  <br/>
 <img src="https://i.imgur.com/MHw53jI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Log onto Demo account on Connected Device:  <br/>
-<img src="https://i.imgur.com/ANQ5KEp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3. Connect a new Device to the Domain (ACIWINSS01): Access System > About > System Properties to view domain status:  <br/>
+<img src="https://i.imgur.com/d7PAjvR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Verify connection to Domain through System settings > About > System Properties:  <br/>
-<img src="https://i.imgur.com/7IJninD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Change device from Workgroup to Domain: acilabs.com:  <br/>
+<img src="https://i.imgur.com/5RlPaOs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
