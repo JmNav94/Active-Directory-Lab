@@ -84,14 +84,6 @@ Confirm new computer name added into the Domain Controllers Active Directory :  
 <img src="https://i.imgur.com/kf97lJk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-:  <br/>
-<img src="https://i.imgur.com/d7PAjvR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-:  <br/>
-<img src="https://i.imgur.com/5RlPaOs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 </p>
 
 <!--
